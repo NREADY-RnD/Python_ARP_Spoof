@@ -1,3 +1,5 @@
+[!] legal disclaimer : Usage of this software for attacking targets or networks without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
 # Introduction
 
 Manipulation of DNS traffic is a very dangerous attack. Knowing how it works, and how to write code to perform this spoofing is very important in understanding how to protect from it. For our assignment we have implemented a very simple ARP and DNS spoofer in python that will send spoofed DNS responses to a victim, redirecting all of their web requests to an ip address you specify. 
@@ -142,7 +144,3 @@ Any arbitrary request will be redirected:
 After doing this assignment we have realised how easy it is to perform these type of man in the middle attacks on unsuspecting networks. It really demonstrates the necessity to protect ourselves and our information when we are navigating the web on any network. 
 
 By writing this application we better understand the ARP and DNS protocols and will be much more effective as security admins out in the field. 
-
-
-[!] legal disclaimer : Usage of this software for attacking targets or networks without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
-
