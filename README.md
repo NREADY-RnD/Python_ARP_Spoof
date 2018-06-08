@@ -143,3 +143,6 @@ After doing this assignment we have realised how easy it is to perform these typ
 
 By writing this application we better understand the ARP and DNS protocols and will be much more effective as security admins out in the field. 
 
+
+[!] legal disclaimer : Usage of this software for attacking targets or networks without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program
+
